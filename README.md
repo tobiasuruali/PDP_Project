@@ -1,2 +1,5 @@
 # PDP_Project
-Controlling Motors and Camera for an image recognition used case 
+Combining Image Recognition & Controlling Motors and Camera for a development project of the HSLU
+
+![Machine Prototype]()
+
