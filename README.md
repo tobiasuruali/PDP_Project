@@ -5,4 +5,4 @@ Combining Image Recognition & Controlling Motors and Camera for a development pr
 
 We utulized image and color recognition to establish when a form has been properly filled. Then used motors to enable proper shaping of the stones.
 
-![Image Recognition Basis]()
+![Image Recognition Basis](https://github.com/tobiasuruali/PDP_Project/blob/74baa53245f64442d2c9e3634e2098bc5ea385ce/images/FillTrays.PNG)
